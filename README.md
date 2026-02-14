@@ -1,4 +1,5 @@
-# <div align="center"> 🎓 Career Suggestion System</div>
+# <div align="center"> <img width="568" height="164" alt="Screenshot 2026-02-15 031708" src="https://github.com/user-attachments/assets/0406b23c-98ef-458d-9658-b4310b12302e" />
+</div>
 
 <div align="center">
 
